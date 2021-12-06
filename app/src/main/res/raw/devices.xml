@@ -225,4 +225,9 @@
         <model>RX100 VA</model>
         <webservice>http://192.168.122.1:10000/sony/camera</webservice>
     </camera>
+    <camera>
+        <id>46</id>
+        <model>A6400</model>
+        <webservice>http://192.168.122.1:10000/sony/camera</webservice>
+    </camera>
 </cameras>
